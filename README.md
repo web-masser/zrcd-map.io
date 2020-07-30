@@ -20,6 +20,14 @@ npm version prerelease
 
 # 版本发布
 
+### 打包
+
+npm run packagr
+
+cd dist
+
+npm pack
+
 ### 登录 npm
 
 npm login
